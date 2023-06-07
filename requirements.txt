@@ -1,0 +1,6 @@
+colorama
+discord.py
+pystyle
+requests
+tqdm
+random
