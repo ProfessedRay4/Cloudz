@@ -21,6 +21,14 @@
 - CHANNEL_NAMES - Name of channels created
 - AUTO_RAID - Bot will automatically raid on join if set to true
 
+
+### TODO:
+- fix {prefix}invites
+- clean up code
+- add more comments (so people can understand whats happening easier)
+- add KeepOnline.py to host a local webserver
+- maybe add a gui (maybe)
+
 ### Issues:
 - Please contact me on discord: [ProfessedRay4#2985](https://discord.com/users/1091415878156943472)
 - Leave a `Issue` and I will help you
