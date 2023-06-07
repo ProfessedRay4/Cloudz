@@ -1,7 +1,7 @@
 @echo off
 
 REM Define the repository URL
-set "repoURL=https://github.com/ProfessedRay4/Discord-AutoRaid.git"
+set "repoURL=https://github.com/ProfessedRay4/Cloudz.git"
 
 REM Get the current directory of the batch file
 set "localFolder=%~dp0"
