@@ -16,7 +16,7 @@
 - SPAM_PRN - Bot spams porn 
 - SERVER_NAME - New server name (bot will change it when raiding)
 - AMOUNT_OF_CHANNELS - Amount of channels the bot creates
-- PREFIX - Bots prefix (default is `;`)
+- PREFIX - Bots prefix
 - MESSAGE - Message the bot sends (when raiding)
 - CHANNEL_NAMES - Name of channels created
 - AUTO_RAID - Bot will automatically raid on join if set to true
