@@ -1,4 +1,4 @@
-# auto raid-discord
+# Cloudz
 
 ### Installation:
 1) Download zip (or git clone)
@@ -14,7 +14,7 @@
 - reworked ``nuke`` command
 - cleaned code up a bit and added more comments
 
-  ### config.json:
+### config.json:
 - TOKEN - Bots token [discord developers](https://discord.com/developers/)
 - PROXIES — Use Proxies (Helps not get rate limited)
 - SPAM_PRN - Bot spams porn 
@@ -25,7 +25,7 @@
 - CHANNEL_NAMES - Name of channels created
 - AUTO_RAID - Bot will automatically raid on join if set to true
 
-  ### Command Info:
+### Command Info:
   - nuke - completely nukes server, edits server name, gives everyone admin, deletes all roles, deletes all channels and creates channels (and spams using webhooks)
   - ban_all - bans all members from the server
   - kick_all - kicks all members from the server
