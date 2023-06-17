@@ -41,4 +41,4 @@
 
 ### Issues:
 - Please contact me on discord: [ProfessedRay4#2985](https://discord.com/users/1091415878156943472)
-- Leave a `Issue` and I will help you
+- Leave a `Issue` or `discussion` and I will help you
