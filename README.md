@@ -40,5 +40,5 @@
 - maybe add a gui (coming next ;3)
 
 ### Issues:
-- Please contact me on discord: [ProfessedRay4#2985](https://discord.com/users/1091415878156943472)
+- Please contact me on discord: [professedray4](https://discord.com/users/1091415878156943472)
 - Leave a `Issue` or `discussion` and I will help you
