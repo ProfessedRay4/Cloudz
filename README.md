@@ -36,8 +36,8 @@
 
 ### TODO:
 - clean up code  -- my code is very messy (sorry)
-- add KeepOnline.py to host a local webserver
-- maybe add a gui (coming next ;3)
+- optomise and work with rate-limits
+- get rid of autism
 
 ### Issues:
 - Please contact me on discord: [professedray4](https://discord.com/users/1091415878156943472)
